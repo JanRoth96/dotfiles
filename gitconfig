@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jan-gabriel.roth@gmx.de
+	name = Jan Roth
